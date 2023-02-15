@@ -4,6 +4,8 @@ title: "Callouts"
 
 ## Callout support
 
+😂congratulations~
+
 Quartz supports the same Admonition-callout syntax as Obsidian.
 
 This includes
