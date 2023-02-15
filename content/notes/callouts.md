@@ -6,6 +6,8 @@ title: "Callouts"
 
 😂congratulations~
 
+you sussess~
+
 Quartz supports the same Admonition-callout syntax as Obsidian.
 
 This includes
