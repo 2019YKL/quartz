@@ -1,6 +1,7 @@
 ---
 title: 🦊 JK.
 enableToc: false
+enableMermaid: false
 ---
 
 😉 这里是我的数字花园。
